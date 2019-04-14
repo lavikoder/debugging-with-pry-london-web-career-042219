@@ -1,7 +1,7 @@
-require 'pry'
+
 
 def plus_two(num)
-	num + 2
-	num
-	binding.pry
+	num_1 = num + 2
+	puts num_1
+
 end
